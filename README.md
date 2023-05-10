@@ -4,7 +4,7 @@
 
 If you have images from any of the Leica microscopes, the images must be saved individually first as .tif to ensure any of the following macros work :) Here is a code to do this quickly every time!
 
-Before starting add the `SaveAllImages` java file to the plugins folder on FIJI. Found in the files above or at the below website. For up-to-date versions o fthe plugin use the website below. Credit to the SaveAllImages plugin creators at SpineUp:
+Before starting add the `SaveAllImages` java file to the plugins folder on FIJI. Found in the files above or at the below website. For up-to-date versions of the plugin use the website below. Credit to the SaveAllImages plugin creators at SpineUp:
 https://spineup.jimdofree.com/downloads/
 
 
