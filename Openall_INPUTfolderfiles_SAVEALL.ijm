@@ -11,6 +11,9 @@
 // https://github.com/MarnieMaddock/SaveAllTif
 //********
 
+#@File (label = "Input directory", style = "directory") chosenInputDir
+#@File (label = "Output directory", style = "directory") chosenOutputDir
+#@String (label = "File suffix", value = ".lif") fileExtension
 
 inputDir = chosenInputDir + File.separator;
 outputDir = chosenOutputDir + File.separator;
